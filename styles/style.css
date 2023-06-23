@@ -290,7 +290,7 @@ margin-left: 213px;
 
 .footer {
   display: flex;
-  padding: 182px 50px;
+  padding: 182px 50px 90px 50px;
   justify-content: space-between;
 }
 
