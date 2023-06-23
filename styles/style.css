@@ -53,7 +53,7 @@ margin-left: 213px;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height: 135%; 
+  line-height: 135%;
 }
 
 .address a {
@@ -174,7 +174,7 @@ margin-left: 213px;
 .lots__card-list-item {
   position: relative;
   width: 430px;
-  min-height: 450px; 
+  min-height: 450px;
   flex-grow: 1;
 }
 
