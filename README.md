@@ -1,2 +1,2 @@
-# ono-tebe-nado
-https://github.com/oksana-webdev/ono-tebe-nado/new/main
+# s-chistogo-lista
+https://github.com/oksana-webdev/s-chistogo-lista/
